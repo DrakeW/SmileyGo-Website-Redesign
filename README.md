@@ -3,7 +3,7 @@ SmileyGo Redesign
 
 Introduction
 ---
-This is a new version of [SmileyGo](https://www.smileygo.org). Following Google Material Design Guideline, and template credits to [Shahriyar Ahmed](https://www.facebook.com/Shahriyar.Ahmed.Sohel).
+This is a new version of [SmileyGo](http://smileygo.org/). Following Google Material Design Guideline, and template credits to [Shahriyar Ahmed](https://www.facebook.com/Shahriyar.Ahmed.Sohel).
 
 Demo
 ---
